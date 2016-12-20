@@ -38,4 +38,4 @@ AWS Polly voices are:
 |Welsh English | Geraint |
 
 ## API Details
-api.domain.com/AmazonVoice/Text+To+Convert+To+Speech
+api.domain.com/AmazonVoice/Text%20To%20Convert%20To%20Speech
