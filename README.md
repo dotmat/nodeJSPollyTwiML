@@ -1,5 +1,8 @@
 # Node AWS Polly Text to Speech API and Generator
 
+## Blog post
+http://www.mathewjenkinson.com/generating-speech-using-aws-polly/
+
 ## Brief
 Node AWS Polly text to speech is an API engine where you can send the desired voice and text in and get a MP3 file out.
 AWS Polly voices are:
